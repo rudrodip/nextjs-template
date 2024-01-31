@@ -8,6 +8,13 @@ export default function Home() {
       <p className="text-2xl my-4 text-center max-w-2xl mx-auto">
         {siteConfig.description}
       </p>
+      <a
+        href={siteConfig.links.github}
+        target="_blank"
+        className="text-center text-blue-500"
+      >
+        Github
+      </a>
     </main>
   );
 }
