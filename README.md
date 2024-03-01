@@ -2,7 +2,7 @@
 
 This is a starter template for Next.js with Shadcn, Prisma, NextAuth, Tailwind CSS, and TypeScript. It's designed to give you a quick and organized start on your Next.js projects.
 
-![OG Image](https://nextjstemplate.vercel.app/og.png)
+![OG Image](https://raw.githubusercontent.com/rudrodip/nextjs-template/main/public/og.png)
 
 ## Features
 
